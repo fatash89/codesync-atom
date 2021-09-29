@@ -1,14 +1,13 @@
 # Security Policy
 
 ## Supported Versions- name: AWS SSM Build Secrets for GitHub Actions
-
   # You may pin to the exact commit or the version.
 
   # uses: marvinpinto/action-inject-ssm-secrets@3bb59520768371a76609c11678e23c2c911899d9
 
-  uses: marvinpinto/action-inject-ssm-secrets@v1.2.1
-
-  with:
+  uses: marvinpinto/action-inject-ssm-secrets@3bb59520768371a76609c11678e23c2c911899d9
+  
+  with: AWS SSM Build Secrets For Github Actions
 
     # The SSM key to look up
 
